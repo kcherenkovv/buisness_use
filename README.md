@@ -19,4 +19,4 @@
 3. `docker-compose up -d`
 
 Чтобы остановить: `docker-compose down'
-![Изображение][https://github.com/kcherenkovv/microservice_architecture/blob/main/metric/logs/error_distribution.png]
+![Изображение](https://github.com/kcherenkovv/microservice_architecture/blob/main/metric/logs/error_distribution.png)
