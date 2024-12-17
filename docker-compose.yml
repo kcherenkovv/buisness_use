@@ -16,7 +16,7 @@ services:
     volumes:
       - ./features/src:/usr/src/app/src
     working_dir: /usr/src/app
-    command: python src/feature.py
+    command: python src/features.py
     depends_on:
       - rabbitmq
 

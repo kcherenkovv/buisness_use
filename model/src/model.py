@@ -4,7 +4,7 @@ import numpy as np
 import json
 
 # Чтение модели
-with open('myfile.pkl', 'rb') as file:
+with open('src/myfile.pkl', 'rb') as file:
     regressor = pickle.load(file)
 
 try:
