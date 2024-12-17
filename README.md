@@ -15,7 +15,7 @@
 
 Для того, чтобы реализовать эту систему у себя на пк необходимо ввести в терминале:
 1. `git clone https://github.com/kcherenkovv/microservice_architecture`
-2. `docker-compose build -d`
-3. `docker-compose up`
+2. `docker-compose build`
+3. `docker-compose up -d`
 
 Чтобы остановить: `docker-compose down'
